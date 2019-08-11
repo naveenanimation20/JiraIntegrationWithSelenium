@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34857" started-at="2019-07-27T14:07:43Z" finished-at="2019-07-27T14:08:18Z">
+    <groups>
+    </groups>
+    <test name="my hub spot test chrome" duration-ms="33043" started-at="2019-07-27T14:07:43Z" finished-at="2019-07-27T14:08:16Z">
+      <class name="com.MyTests.LoginTest">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginTest@4909b8da]" name="setUpTest" is-config="true" duration-ms="8405" started-at="2019-07-27T14:07:43Z" finished-at="2019-07-27T14:07:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.MyTests.LoginTest@4909b8da]" name="verifyLoginPageTitleTest" duration-ms="2005" started-at="2019-07-27T14:07:51Z" finished-at="2019-07-27T14:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginTest@4909b8da]" name="tearDown" is-config="true" duration-ms="139" started-at="2019-07-27T14:07:53Z" finished-at="2019-07-27T14:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginTest@4909b8da]" name="setUpTest" is-config="true" duration-ms="7830" started-at="2019-07-27T14:07:53Z" finished-at="2019-07-27T14:08:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageHeaderTest()[pri:2, instance:com.MyTests.LoginTest@4909b8da]" name="verifyLoginPageHeaderTest" duration-ms="489" started-at="2019-07-27T14:08:01Z" finished-at="2019-07-27T14:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginTest@4909b8da]" name="tearDown" is-config="true" duration-ms="88" started-at="2019-07-27T14:08:02Z" finished-at="2019-07-27T14:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginTest@4909b8da]" name="setUpTest" is-config="true" duration-ms="8106" started-at="2019-07-27T14:08:02Z" finished-at="2019-07-27T14:08:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="doLoginTest()[pri:3, instance:com.MyTests.LoginTest@4909b8da]" name="doLoginTest" duration-ms="5857" started-at="2019-07-27T14:08:10Z" finished-at="2019-07-27T14:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginTest@4909b8da]" name="tearDown" is-config="true" duration-ms="98" started-at="2019-07-27T14:08:16Z" finished-at="2019-07-27T14:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.MyTests.LoginTest -->
+    </test> <!-- my hub spot test chrome -->
+    <test name="my hub spot test firefox" duration-ms="34857" started-at="2019-07-27T14:07:43Z" finished-at="2019-07-27T14:08:18Z">
+      <class name="com.MyTests.LoginTest">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginTest@337d0578]" name="setUpTest" is-config="true" duration-ms="9802" started-at="2019-07-27T14:07:43Z" finished-at="2019-07-27T14:07:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.MyTests.LoginTest@337d0578]" name="verifyLoginPageTitleTest" duration-ms="5" started-at="2019-07-27T14:07:53Z" finished-at="2019-07-27T14:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginTest@337d0578]" name="tearDown" is-config="true" duration-ms="664" started-at="2019-07-27T14:07:53Z" finished-at="2019-07-27T14:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginTest@337d0578]" name="setUpTest" is-config="true" duration-ms="9646" started-at="2019-07-27T14:07:53Z" finished-at="2019-07-27T14:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageHeaderTest()[pri:2, instance:com.MyTests.LoginTest@337d0578]" name="verifyLoginPageHeaderTest" duration-ms="49" started-at="2019-07-27T14:08:03Z" finished-at="2019-07-27T14:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginTest@337d0578]" name="tearDown" is-config="true" duration-ms="941" started-at="2019-07-27T14:08:03Z" finished-at="2019-07-27T14:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginTest@337d0578]" name="setUpTest" is-config="true" duration-ms="9099" started-at="2019-07-27T14:08:04Z" finished-at="2019-07-27T14:08:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="doLoginTest()[pri:3, instance:com.MyTests.LoginTest@337d0578]" name="doLoginTest" duration-ms="4014" started-at="2019-07-27T14:08:13Z" finished-at="2019-07-27T14:08:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginTest@337d0578]" name="tearDown" is-config="true" duration-ms="613" started-at="2019-07-27T14:08:17Z" finished-at="2019-07-27T14:08:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.MyTests.LoginTest -->
+    </test> <!-- my hub spot test firefox -->
+  </suite> <!-- Suite -->
+</testng-results>
